@@ -21,14 +21,11 @@
 
 ## 📸 پیش‌نمایش
 
-![پیش‌نمایش برنامه](https://img.icons8.com/color/96/biology.png)  
-*(می‌توانید تصویری از برنامه در حال اجرا را در پوشه `screenshots/` قرار دهید و لینک آن را جایگزین کنید)*
+به زودی
 
 ---
 
 ## 📦 نصب و اجرا
 
 ### ۱. کلون کردن مخزن
-```bash
-git clone https://github.com/YOUR_USERNAME/CRD-Pro.git
-cd CRD-Pro
+به زودی
