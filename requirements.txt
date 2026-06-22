@@ -1,0 +1,6 @@
+pandas
+scipy
+statsmodels
+scikit-posthocs
+plotly
+openpyxl
